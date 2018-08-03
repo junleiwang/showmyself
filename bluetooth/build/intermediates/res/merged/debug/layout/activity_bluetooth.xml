@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:id="@+id/activity_bluetooth"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.wv.bluetooth.BluetoothActivity">
+
+    <Button
+        android:id="@+id/btn_search"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="搜索蓝牙"/>
+
+    <ListView
+        android:id="@+id/lv_search"
+        android:layout_below="@+id/btn_search"
+        android:layout_width="wrap_content"
+        android:layout_height="200dp"></ListView>
+
+    <Button
+        android:layout_below="@+id/lv_search"
+        android:id="@+id/btn_haved"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="已配对蓝牙"/>
+
+    <ListView
+        android:id="@+id/lv_haved"
+        android:layout_below="@+id/btn_haved"
+        android:layout_width="wrap_content"
+        android:layout_height="200dp"></ListView>
+
+
+</RelativeLayout>

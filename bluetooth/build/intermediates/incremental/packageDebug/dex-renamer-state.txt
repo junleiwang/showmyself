@@ -1,0 +1,7 @@
+#Sun Oct 23 17:27:44 CST 2016
+base.0=D\:\\code\\ServerActivity\\bluetooth\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_980a302ca9fd56841f6382505c90a9d8f7295166
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\code\\ServerActivity\\bluetooth\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_1a0cbac6ea52ebc58020451915743b37f0f2eb71\\classes.dex
+base.1=D\:\\code\\ServerActivity\\bluetooth\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_1a0cbac6ea52ebc58020451915743b37f0f2eb71
+file.0=D\:\\code\\ServerActivity\\bluetooth\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_980a302ca9fd56841f6382505c90a9d8f7295166\\classes.dex
